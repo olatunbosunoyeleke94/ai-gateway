@@ -134,9 +134,9 @@ llm_prompt_complexity
 
 ### Grafana Dashboards (Local Run)
 
-![Main Dashboard & Model Distribution](main/grafana-main.png)
-![Adaptive Routing](main/adaptive-routing.png)
-![Prompt Complexity](main/prompt-complexity.png)
+![Main Dashboard & Model Distribution](grafana-main.png)
+![Adaptive Routing](adaptive-routing.png)
+![Prompt Complexity](prompt-complexity.png)
 
 
 # Tech Stack
