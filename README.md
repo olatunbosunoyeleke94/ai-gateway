@@ -132,6 +132,15 @@ llm_model_score
 llm_prompt_complexity
 ```
 
+### Grafana Dashboards (Local Run)
+
+![Main Dashboard & Model Distribution](screenshots/grafana-main.png)
+![Adaptive Routing](screenshots/adaptive-routing.png)
+![Prompt Complexity](screenshots/prompt-complexity.png)
+
+### Live Performance View
+![Models Performance](screenshots/models-performance.png)
+
 # Tech Stack
 
 - Backend: Python + Flask
