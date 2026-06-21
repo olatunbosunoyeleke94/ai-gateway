@@ -1,0 +1,17 @@
+{
+	"ulid": "01KVE766M5518388WV0WN3ETMC",
+	"minTime": 1781749796466,
+	"maxTime": 1781755200000,
+	"stats": {
+		"numSamples": 15690,
+		"numSeries": 74,
+		"numChunks": 146
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KVE766M5518388WV0WN3ETMC"
+		]
+	},
+	"version": 1
+}

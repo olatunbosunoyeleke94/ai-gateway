@@ -1,0 +1,17 @@
+{
+	"ulid": "01KVK23FETZ1GSJJA6106XFCN0",
+	"minTime": 1781896686465,
+	"maxTime": 1781899200000,
+	"stats": {
+		"numSamples": 25880,
+		"numSeries": 76,
+		"numChunks": 277
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01KVK23FETZ1GSJJA6106XFCN0"
+		]
+	},
+	"version": 1
+}
