@@ -47,28 +47,28 @@ source .venv/bin/activate #activate venv
 
 ```
 
-# 1. Install dependencies
+## 1. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 
 ```
 
-# 2. Make sure Ollama is running locally
+## 2. Make sure Ollama is running locally
 
 ```bash
 ollama serve
 
 ```
 
-# 3. Run the gateway
+## 3. Run the gateway
 
 ```bash
 python gateway.py
 
 ```
 
-# Then test:
+## Then test:
 
 ```bash
 curl -X POST http://localhost:3000/generate \
@@ -77,7 +77,7 @@ curl -X POST http://localhost:3000/generate \
 
 ```
 
-# Useful local endpoints:
+## Useful local endpoints:
 
 ```Open in Web Browser
 
@@ -97,7 +97,7 @@ docker-compose up -d --build
 ```
 
 
-# Access URLs (Docker Mode)
+## Access URLs (Docker Mode)
 
 ```
 
@@ -112,9 +112,12 @@ Ollama		http://localhost:11434	Direct model access
 ```
 
 
-# Grafana Dashboards
+## Grafana Dashboards
 
-After starting the stack, open `http://localhost:3001` 
+- After starting the stack, open 
+
+```http://localhost:3001```
+ 
 Default credentials: admin / admin
 
 You can view:
