@@ -119,7 +119,6 @@ Useful PromQL Queries:
 
 ```promql
 
-
 # Requests per model
 llm_requests_total
 
